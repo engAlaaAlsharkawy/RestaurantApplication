@@ -1,0 +1,8 @@
+com\alazhar\restaurant\RestaurantApplication.class
+com\alazhar\restaurant\enums\MeatType.class
+com\alazhar\restaurant\model\BurgerSandwiches.class
+com\alazhar\restaurant\enums\BreadColor.class
+com\alazhar\restaurant\model\Additional.class
+com\alazhar\restaurant\model\DeluxeBurger.class
+com\alazhar\restaurant\model\HealthyBurger.class
+com\alazhar\restaurant\model\NormalBurger.class
